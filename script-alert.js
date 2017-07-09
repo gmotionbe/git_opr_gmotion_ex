@@ -1,0 +1,1 @@
+alert('Alerte SANS variable')
