@@ -1,1 +1,0 @@
-alert('Alerte SANS variable')
